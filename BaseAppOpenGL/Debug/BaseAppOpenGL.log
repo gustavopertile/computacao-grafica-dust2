@@ -1,0 +1,27 @@
+﻿  CModel_ASSIMP.cpp
+C:\Users\gusta\Downloads\dust2_cs-main\BaseAppOpenGL\CModel_ASSIMP.h(20,10): error C1083: Não é possível abrir arquivo incluir: 'assimp/Importer.hpp': No such file or directory
+  (compilando o arquivo fonte 'CModel_ASSIMP.cpp')
+  
+  CShaderManager.cpp
+  Main.cpp
+C:\Users\gusta\Downloads\dust2_cs-main\BaseAppOpenGL\CModel_ASSIMP.h(20,10): error C1083: Não é possível abrir arquivo incluir: 'assimp/Importer.hpp': No such file or directory
+  (compilando o arquivo fonte 'Main.cpp')
+  
+  Mesh.cpp
+C:\Users\gusta\Downloads\dust2_cs-main\BaseAppOpenGL\Mesh.h(10,10): error C1083: Não é possível abrir arquivo incluir: 'assimp/Importer.hpp': No such file or directory
+  (compilando o arquivo fonte 'Mesh.cpp')
+  
+  Scene1.cpp
+C:\Users\gusta\Downloads\dust2_cs-main\BaseAppOpenGL\CModel_ASSIMP.h(20,10): error C1083: Não é possível abrir arquivo incluir: 'assimp/Importer.hpp': No such file or directory
+  (compilando o arquivo fonte 'Scene1.cpp')
+  
+  Scene2.cpp
+C:\Users\gusta\Downloads\dust2_cs-main\BaseAppOpenGL\Mesh.h(10,10): error C1083: Não é possível abrir arquivo incluir: 'assimp/Importer.hpp': No such file or directory
+  (compilando o arquivo fonte 'Scene2.cpp')
+  
+  SceneBaseClass.cpp
+  SceneManager.cpp
+C:\Users\gusta\Downloads\dust2_cs-main\BaseAppOpenGL\CModel_ASSIMP.h(20,10): error C1083: Não é possível abrir arquivo incluir: 'assimp/Importer.hpp': No such file or directory
+  (compilando o arquivo fonte 'SceneManager.cpp')
+  
+  Gerando Código...
